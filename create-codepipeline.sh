@@ -1,5 +1,4 @@
 #!/bin/bash
-
 CODEPIPELINE_CFN_STACK_NAME="github-wordpress-codepipeline"
 
 set -eu
